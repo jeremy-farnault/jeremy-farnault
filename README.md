@@ -20,15 +20,19 @@ I used to be a boilermaker in aeronautics. I hammered metal sheets for 7 years b
 
 ### Open Source projects
 
-[React Native PinCode](https://github.com/jarden-digital/react-native-pincode) => A customizable PIN Code component for react native (**react-native**)
-[React Native Switches](https://github.com/jarden-digital/react-native-switches) => Customizable Switch components for react native (**react-native**)
-[React Native Recaptcha v3](https://github.com/jarden-digital/react-native-recaptchav3) => React native component to use the invisible reCAPTCHA v3 from Google (**react-native**)
-[React Native Pages](https://github.com/jarden-digital/react-native-pages) => A component to handle transition between pages based on a list of ordered statuses (**react-native**)
-[Node Open Policy Agent](https://github.com/jarden-digital/node-open-policy-agent) => Node module for [Open Policy Agent](https://github.com/open-policy-agent/opa) (**node**)
-[NZ IRD Validator](https://github.com/jarden-digital/nz-ird-validator) => A validator for New Zealand tax numbers (IRD) (**node**)
-[NZ IRD Validator CLJ](https://github.com/jarden-digital/nz-ird-validator-clj) => A validator for New Zealand tax numbers (IRD) (**clojure**)
-[NZ Bank Account Validator](https://github.com/jarden-digital/nz-bank-account-validator) => A validator for New Zealand bank accounts (**node**)
-[Appium AWS Device Farm](https://github.com/jarden-digital/appium-aws-device-farm) => Node library to schedule Appium test runs on AWS Device Farm (**node**)
-[JWT Verify JWKS](https://github.com/jarden-digital/jwt-verify-jwks) => Validate a JWT based on a JWKS url (**clojure**)
-[React Game](https://github.com/Haskkor/react-game) => Most recent iteration of a LoTR based game (**react**)
+* [React Native PinCode](https://github.com/jarden-digital/react-native-pincode) => A customizable PIN Code component for react native (**react-native**)
+* [React Native Switches](https://github.com/jarden-digital/react-native-switches) => Customizable Switch components for react native (**react-native**)
+* [React Native Recaptcha v3](https://github.com/jarden-digital/react-native-recaptchav3) => React native component to use the invisible reCAPTCHA v3 from Google (**react-native**)
+* [React Native Pages](https://github.com/jarden-digital/react-native-pages) => A component to handle transition between pages based on a list of ordered statuses (**react-native**)
+* [Node Open Policy Agent](https://github.com/jarden-digital/node-open-policy-agent) => Node module for [Open Policy Agent](https://github.com/open-policy-agent/opa) (**node**)
+* [NZ IRD Validator](https://github.com/jarden-digital/nz-ird-validator) => A validator for New Zealand tax numbers (IRD) (**node**)
+* [NZ IRD Validator CLJ](https://github.com/jarden-digital/nz-ird-validator-clj) => A validator for New Zealand tax numbers (IRD) (**clojure**)
+* [NZ Bank Account Validator](https://github.com/jarden-digital/nz-bank-account-validator) => A validator for New Zealand bank accounts (**node**)
+* [Appium AWS Device Farm](https://github.com/jarden-digital/appium-aws-device-farm) => Node library to schedule Appium test runs on AWS Device Farm (**node**)
+* [JWT Verify JWKS](https://github.com/jarden-digital/jwt-verify-jwks) => Validate a JWT based on a JWKS url (**clojure**)
+* [React Game](https://github.com/Haskkor/react-game) => Most recent iteration of a LoTR based game (**react**)
+
+### Resume
+
+
 
