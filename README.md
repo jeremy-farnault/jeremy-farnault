@@ -34,5 +34,7 @@ I used to be a boilermaker in aeronautics. I hammered metal sheets for 7 years b
 
 ### Resume
 
-
-
+[Detailed version DOCX](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault%20Detailed.docx)
+[Detailed version PAGES](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault%20Detailed.pages)
+[Compact version DOCX](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault.docx)
+[Compact version PAGES](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault.pages)
