@@ -20,6 +20,8 @@ I used to be a boilermaker in aeronautics. I hammered metal sheets for 7 years b
 
 ### Open Source projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jarden-digital&repo=react-native-pincode)](https://github.com/anuraghazra/github-readme-stats)
+
 * [React Native PinCode](https://github.com/jarden-digital/react-native-pincode) => A customizable PIN Code component for react native (**react-native**)
 * [React Native Switches](https://github.com/jarden-digital/react-native-switches) => Customizable Switch components for react native (**react-native**)
 * [React Native Recaptcha v3](https://github.com/jarden-digital/react-native-recaptchav3) => React native component to use the invisible reCAPTCHA v3 from Google (**react-native**)
