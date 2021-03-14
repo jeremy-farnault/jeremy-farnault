@@ -3,7 +3,7 @@
 #### Who am I
 
 I'm a French/Kiwi front-end developer.
-I'm 34 years old and I'm currently living in Paraparaumu, NZ with my wife and two children.
+I'm 35 years old and I'm currently living in Paraparaumu, NZ with my wife and two children.
 I'm pretty much of a bookworm, and particularly enjoy mangas and fantasy literature. I also love all kinds of games: role-playing, card, board games, video games...you name it and I'm in! Morning gymgoer, I enjoy my daily session of weighlifting. I'm also an an amateur writer and a very keen miniature painter. I've also been vegetarian for the past 5 years, and vegan 🌱 for the past 2 years.
 
 I fell in love with New Zealand 20 years ago when Peter Jackson introduced the world to the culture, the landscapes, and the people of this beautiful country. I've been living in Wellington for 3 years now, working for the best finance company in NZ, [Jarden](https://github.com/jarden-digital).
@@ -33,10 +33,3 @@ I used to be a boilermaker in aeronautics. I hammered metal sheets for 7 years b
 * [Appium AWS Device Farm](https://github.com/jarden-digital/appium-aws-device-farm) => Node library to schedule Appium test runs on AWS Device Farm (**node**)
 * [JWT Verify JWKS](https://github.com/jarden-digital/jwt-verify-jwks) => Validate a JWT based on a JWKS url (**clojure**)
 * [React Game](https://github.com/Haskkor/react-game) => Most recent iteration of a LoTR based game (**react**)
-
-### Resume
-
-* [Detailed version DOCX](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault%20Detailed.docx)
-* [Detailed version PAGES](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault%20Detailed.pages)
-* [Compact version DOCX](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault.docx)
-* [Compact version PAGES](https://github.com/Haskkor/Haskkor/blob/master/CV%20Jeremy%20Farnault.pages)
