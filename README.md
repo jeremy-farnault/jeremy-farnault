@@ -2,18 +2,23 @@
 
 #### Who am I
 
-I'm a French/Kiwi front-end developer.
-I'm 35 years old and I'm currently living in Paraparaumu, NZ with my wife and two children.
-I'm pretty much of a bookworm, and particularly enjoy mangas and fantasy literature. I also love all kinds of games: role-playing, card, board games, video games...you name it and I'm in! Morning gymgoer, I enjoy my daily session of weighlifting. I'm also an an amateur writer and a very keen miniature painter. I've also been vegetarian for the past 5 years, and vegan 🌱 for the past 2 years.
+👋 Hi there! I'm Jeremy, a French/Kiwi Senior Front-End Developer and Front-End Practice Lead based in Paraparaumu, NZ. I'm 37 and live here with my wife and two kids.
 
-I fell in love with New Zealand 20 years ago when Peter Jackson introduced the world to the culture, the landscapes, and the people of this beautiful country. I've been living in Wellington for 3 years now, working for the best finance company in NZ, [Jarden](https://github.com/jarden-digital).
+📚 Outside of coding, I'm a bookworm with a soft spot for mangas and fantasy literature. I'm also a gaming enthusiast—whether it's role-playing, card games, board games, or video games, count me in! 🎮
 
-I used to be a boilermaker in aeronautics. I hammered metal sheets for 7 years but I always knew it wasn't the right place for me. So I took evening classes for 2 years to obtain my High School degree. I always had a thing with computers so I decided to take a shot at it and try to make my way in this domain. I kept the evening class going for 3 more years in the university to obtain my Technology University degree in Informatics. In the same time I got my Technical Degree in Informatics and had my first work experience in this field. Finally, I went to the prestigious SUPINFO International University and 3 years later, here I am with my Master of Science in Informatics. Before leaving France, I've been working for the french government and for a major service company as a full-stack developer for 3 years.
+🏋️‍♂️ I kickstart my mornings with weightlifting sessions and am passionate about miniature painting 🎨. I've been a vegetarian for 8 years and vegan 🌱 for the last 5.
+
+🇳🇿 I was captivated by New Zealand 20+ years ago, ever since Peter Jackson's films showcased its breathtaking landscapes and vibrant culture. I've now called Wellington home for 6+ years. While I previously worked at Jarden, NZ's leading finance company, I'm currently at Abletech, an incredible consulting firm.
+
+🇯🇵 My family and I are also deeply fascinated by Japan, and it's a country we're looking forward to exploring more closely in the future.
+
+🛠️ Before diving into tech, I was a boilermaker in aeronautics for 7 years. Realizing it wasn't my calling, I took evening classes to earn my high school degree and later my Technology University degree in Informatics. I also have a Master of Science in Informatics from SUPINFO International University.
+
+👨‍💻 Professionally, I've had the privilege of collaborating with Te Whatu Ora (Ministry of Health) on critical COVID-19 response applications. I've also taken on a leadership role at Abletech, where I serve as a bridge between the People Lead and our development team. I'm involved in everything from mentoring to RFPs, and I'm incredibly proud of the work we're doing.
 
 - 🔭 I’m currently working on a medfan book, a react side project, and a react/react-native app in the finance world.
 - :green_book: I’m currently learning Japanese, finance and ecology. 
 - 👯 I’m looking to collaborate on any fun open-source project.
-- 🤔 I’m looking for help with having people gain consciousness of environmental issues.
 - 💬 Ask me about any of my interest :smile:.
 - 📫 How to reach me: [email](farnaultjeremy@gmail.com), [linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-farnault-817027b9/), [facebook](https://www.facebook.com/johnronaldreuel.mccartney), [twitter](https://www.facebook.com/johnronaldreuel.mccartney), [instagram](https://www.instagram.com/jeremyfarnault/), [steam](https://steamcommunity.com/profiles/76561197983321338/)
 - 😄 Pronouns: he/him
@@ -32,4 +37,3 @@ I used to be a boilermaker in aeronautics. I hammered metal sheets for 7 years b
 * [NZ Bank Account Validator](https://github.com/jarden-digital/nz-bank-account-validator) => A validator for New Zealand bank accounts (**node**)
 * [Appium AWS Device Farm](https://github.com/jarden-digital/appium-aws-device-farm) => Node library to schedule Appium test runs on AWS Device Farm (**node**)
 * [JWT Verify JWKS](https://github.com/jarden-digital/jwt-verify-jwks) => Validate a JWT based on a JWKS url (**clojure**)
-* [React Game](https://github.com/Haskkor/react-game) => Most recent iteration of a LoTR based game (**react**)
