@@ -1,27 +1,28 @@
-### Kia ora 👋
+### Hej, Kia ora, こんにちは 👋
 
 #### Who am I
 
-👋 Hi there! I'm Jeremy, a French/Kiwi Senior Front-End Developer and Front-End Practice Lead based in Paraparaumu, NZ. I'm 37 and live here with my wife and two kids.
+👋 Hi there! I'm Jeremy, a French Senior Software Engineer and Team Lead currently based in Tokyo, Japan. My family and I are excited to be starting our next chapter soon with a move to Sweden!
 
-🛠️ Before diving into tech, I was a boilermaker in aeronautics for 7 years. Realizing it wasn't my calling, I took evening classes to earn my high school degree and later my Technology University degree in Informatics. I also have a Master of Science in Informatics from SUPINFO International University.
+🛠️ My path into tech wasn't a straight line. I started my career as a boilermaker in aeronautics, but after 7 years, I knew I needed a change. I went back to school, earned my university degrees in Informatics, and found my true passion in building software and leading teams.
 
-👨‍💻 Professionally, I've had the privilege of collaborating with Te Whatu Ora (Ministry of Health) on critical COVID-19 response applications. I've also taken on a leadership role at Abletech, where I serve as a bridge between the People Lead and our development team. I'm involved in everything from mentoring to RFPs, and I'm incredibly proud of the work we're doing.
+👨‍💻 Professionally, my journey has taken me from software engineering in France, to leading a front-end practice in New Zealand, to my current role as an Assistant Engineering Manager in Tokyo. Here, I have the privilege of leading a team of up to eight engineers at Rakuten, where my focus is on creating a supportive, collaborative environment that empowers them to do their best work. I enjoy balancing technical leadership with my responsibility for my team's career growth and successful project delivery.
 
-🇳🇿 I was captivated by New Zealand 20+ years ago, ever since Peter Jackson's films showcased its breathtaking landscapes and vibrant culture. I've now called Wellington home for 6+ years. While I previously worked at Jarden, NZ's leading finance company, I'm currently at Abletech, an incredible consulting firm.
+🇸🇪 For years, we've been captivated by Sweden's culture of innovation, its beautiful landscapes, and its commitment to equality and inclusion. I'm incredibly excited to immerse my family in a new culture, learn the language, and contribute my skills to Sweden's dynamic tech community.
 
-🇯🇵 My family and I are also deeply fascinated by Japan, and it's a country we're looking forward to exploring more closely in the future.
+📚 Outside of work, I like to unwind with a good book (or manga), some painting (miniatures, watercolour), or a bit of writing. I also enjoy gaming in all its forms—from board games to video games and role-playing games. Every mornings, you can also find me starting the day with a gym session.
 
-📚 Outside of coding, I'm a bookworm with a soft spot for mangas and fantasy literature. I'm also a gaming enthusiast—whether it's role-playing, card games, board games, or video games, count me in! 🎮
+🔭 I’m currently focused on preparing for our move and finding my next professional challenge in Sweden.
 
-🏋️‍♂️ I kickstart my mornings with weightlifting sessions and am passionate about miniature painting 🎨. I've been a vegetarian for 8 years and vegan 🌱 for the last 5.
+📗 I’m currently learning Swedish and improving my Japanese! And always diving deeper into effective leadership practices and system architecture.
 
-- 🔭 I’m currently working on a medfan book, a react side project, and a react/react-native app in the finance world.
-- :green_book: I’m currently learning Japanese, finance and ecology. 
-- 👯 I’m looking to collaborate on any fun open-source project.
-- 💬 Ask me about any of my interests :smile:.
-- 📫 How to reach me: [email](farnaultjeremy@gmail.com), [linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-farnault-817027b9/), [facebook](https://www.facebook.com/johnronaldreuel.mccartney), [twitter](https://www.facebook.com/johnronaldreuel.mccartney), [instagram](https://www.instagram.com/jeremyfarnault/), [steam](https://steamcommunity.com/profiles/76561197983321338/)
-- 😄 Pronouns: he/him
+👯 I’m looking to collaborate on any open-source projects that are fun and have a positive impact.
+
+💬 Ask me about anything from frontend development and team leadership to painting and books!
+
+📫 The best way to reach me is on LinkedIn.
+
+😄 Pronouns: he/him
 
 ### Open Source projects
 
