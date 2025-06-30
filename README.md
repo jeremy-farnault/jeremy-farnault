@@ -2,17 +2,15 @@
 
 #### Who am I
 
-👋 Hi there! I'm Jeremy, a French Senior Software Engineer and Team Lead currently based in Tokyo, Japan. My family and I are excited to be starting our next chapter soon with a move to Sweden!
+👋 Hi there! I'm Jeremy, a French Senior Software Engineer and Team Lead currently based in Tokyo, Japan.
 
 🛠️ My path into tech wasn't a straight line. I started my career as a boilermaker in aeronautics, but after 7 years, I knew I needed a change. I went back to school, earned my university degrees in Informatics, and found my true passion in building software and leading teams.
 
 👨‍💻 Professionally, my journey has taken me from software engineering in France, to leading a front-end practice in New Zealand, to my current role as an Assistant Engineering Manager in Tokyo. Here, I have the privilege of leading a team of up to eight engineers at Rakuten, where my focus is on creating a supportive, collaborative environment that empowers them to do their best work. I enjoy balancing technical leadership with my responsibility for my team's career growth and successful project delivery.
 
-🇸🇪 For years, we've been captivated by Sweden's culture of innovation, its beautiful landscapes, and its commitment to equality and inclusion. I'm incredibly excited to immerse my family in a new culture, learn the language, and contribute my skills to Sweden's dynamic tech community.
+🇸🇪 For years, we've been captivated by Sweden's culture of innovation, its beautiful landscapes, and its commitment to equality and inclusion.
 
 📚 Outside of work, I like to unwind with a good book (or manga), some painting (miniatures, watercolour), or a bit of writing. I also enjoy gaming in all its forms—from board games to video games and role-playing games. Every mornings, you can also find me starting the day with a gym session.
-
-🔭 I’m currently focused on preparing for our move and finding my next professional challenge in Sweden.
 
 📗 I’m currently learning Swedish and improving my Japanese! And always diving deeper into effective leadership practices and system architecture.
 
