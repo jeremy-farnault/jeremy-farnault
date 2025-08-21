@@ -2,7 +2,7 @@
 
 #### Who am I
 
-👋 Hi there! I'm Jeremy, a French Senior Software Engineer and Team Lead currently based in Tokyo, Japan. My family and I are excited to be starting our next chapter soon with a move to Sweden!
+👋 Hi there! I'm Jeremy, a French Senior Software Engineer and Team Lead currently based in Tokyo, Japan. My family and I are excited to be starting our next chapter soon with a move to Sweden this October!
 
 🛠️ My path into tech wasn't a straight line. I started my career as a boilermaker in aeronautics, but after 7 years, I knew I needed a change. I went back to school, earned my university degrees in Informatics, and found my true passion in building software and leading teams.
 
