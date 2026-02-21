@@ -1,4 +1,4 @@
-# Hej, Kia ora, こんにちは 👋
+# Hej, Kia ora, こんにちは,
 
 I’m **Jeremy**, a Senior Software Engineer and Engineering Manager now based in **Sweden** 🇸🇪. I’ve spent my career building software and leading teams across France, New Zealand, and most recently, Tokyo.
 
